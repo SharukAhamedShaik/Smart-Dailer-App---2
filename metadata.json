@@ -1,0 +1,5 @@
+{
+  "name": "Smart Dialer & Spam Detector",
+  "description": "A professional mobile dialer simulation with real-time spam detection, caller identification, and a clean blue-and-white UI.",
+  "requestFramePermissions": []
+}
